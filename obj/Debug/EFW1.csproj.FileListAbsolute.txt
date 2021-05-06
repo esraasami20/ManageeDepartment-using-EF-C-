@@ -1,0 +1,15 @@
+E:\coullege stuff\ITI\M5\W20\LINQ\D2\EFW1\bin\Debug\EFW1.exe.config
+E:\coullege stuff\ITI\M5\W20\LINQ\D2\EFW1\bin\Debug\EFW1.exe
+E:\coullege stuff\ITI\M5\W20\LINQ\D2\EFW1\bin\Debug\EFW1.pdb
+E:\coullege stuff\ITI\M5\W20\LINQ\D2\EFW1\bin\Debug\EntityFramework.dll
+E:\coullege stuff\ITI\M5\W20\LINQ\D2\EFW1\bin\Debug\EntityFramework.SqlServer.dll
+E:\coullege stuff\ITI\M5\W20\LINQ\D2\EFW1\bin\Debug\EntityFramework.xml
+E:\coullege stuff\ITI\M5\W20\LINQ\D2\EFW1\bin\Debug\EntityFramework.SqlServer.xml
+E:\coullege stuff\ITI\M5\W20\LINQ\D2\EFW1\obj\Debug\EFW1.csprojAssemblyReference.cache
+E:\coullege stuff\ITI\M5\W20\LINQ\D2\EFW1\obj\Debug\EFW1.Form1.resources
+E:\coullege stuff\ITI\M5\W20\LINQ\D2\EFW1\obj\Debug\EFW1.Properties.Resources.resources
+E:\coullege stuff\ITI\M5\W20\LINQ\D2\EFW1\obj\Debug\EFW1.csproj.GenerateResource.cache
+E:\coullege stuff\ITI\M5\W20\LINQ\D2\EFW1\obj\Debug\EFW1.csproj.CoreCompileInputs.cache
+E:\coullege stuff\ITI\M5\W20\LINQ\D2\EFW1\obj\Debug\EFW1.csproj.CopyComplete
+E:\coullege stuff\ITI\M5\W20\LINQ\D2\EFW1\obj\Debug\EFW1.exe
+E:\coullege stuff\ITI\M5\W20\LINQ\D2\EFW1\obj\Debug\EFW1.pdb
